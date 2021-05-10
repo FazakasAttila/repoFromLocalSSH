@@ -1,1 +1,1 @@
-new file added on feature1 branch
+new file added on feature1 branch -> change from feature2
